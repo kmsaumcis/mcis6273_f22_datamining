@@ -1,10 +1,7 @@
 # MCIS6273 Fall 2022
 
 
-## Homeworks
 
-| # | Link | Description | Due Date |
-|:-:|:----:|:-----------:|:--------:|
 | 0 | HW0 [Jupyter NB](./homework/hw0/hw0.ipynb)<br/> HW0 [pdf](./homework/hw0/hw0.pdf) | Data Science warmup | Mon. Aug. 29, 2022 |
 - 👋My Zoterio username is : nasrinyarali
 - 👀 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc iaculis lorem a dolor faucibus, non placerat metus dapibus. Nam sem nisl, rutrum ac est et, bibendum pharetra sapien. Pellentesque a euismod velit. Curabitur eget egestas ex. Aliquam enim ante, vestibulum sed lectus a, vulputate facilisis tellus. Morbi finibus sagittis luctus. Proin quis enim sit amet dolor auctor venenatis. Duis pharetra rutrum est, eu euismod risus. Nulla venenatis erat in convallis laoreet. Duis ac tincidunt felis. Praesent lorem velit, imperdiet et massa vitae, ultricies laoreet ante. Quisque vel consequat neque. Cras nulla lacus, finibus nec purus ac, congue ullamcorper dolor. Donec suscipit ac nunc in semper.
